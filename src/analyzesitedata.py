@@ -12,8 +12,9 @@ from nltk.corpus import stopwords
 
 if __name__ == '__main__':
     
-    pageUrls = ['reviews/www.zulily.com','reviews/www.zappos.com']
-    filenames = ['/Users/jacoba100/data/reviews/zulily.pkl','/Users/jacoba100/data/reviews/zappos.pkl']
+    pageUrls = ['put relative urls here, base url will be in review page parser class']
+    filenames = ['put filenames here, one filename per pageurl']
+    
     
     for i in range(len(pageUrls)):
         print "site: %s"%pageUrls[i]
@@ -38,9 +39,10 @@ if __name__ == '__main__':
             # build up a bag of all words in all reviews for this rating    
             for reviews in reviewsByRating[rating]:
                 rawText = reviews.text
-                sentences = re.split('[\.?!]',rawText)
+                sentences = re.split('[\.\(\)?!&]',rawText)
                 for sentence in sentences:
-                    parts = sentence.split()
+                    lowered = sentence.lower()
+                    parts = lowered.split()
                     textBag.extend(parts)
         
             # remove stop words
