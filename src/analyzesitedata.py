@@ -10,26 +10,25 @@ import re
 from nltk.probability import ConditionalFreqDist
 from nltk.corpus import stopwords
 
-if __name__ == '__main__':
+
+class AnalyzeSiteData(object):
     
-    pageUrls = ['put relative urls here, base url will be in review page parser class']
-    filenames = ['put filenames here, one filename per pageurl']
-    
-    
-    for i in range(len(pageUrls)):
-        print "site: %s"%pageUrls[i]
-        sjr = SiteJabberReviews(pageUrls[i],filenames[i])
-        reviewsByRating = sjr.load()
+    def plotReviews(self, reviews):
         
-        sortedRatings = sorted(reviewsByRating.keys())
+        reviewsByRating = reviews.reviewsByRating
         xvals = [x for x in reviewsByRating.keys()]
         yvals = [len(reviewsByRating[key]) for key in reviewsByRating.keys()]
         
         plt.plot(xvals,yvals)
         plt.show()
         
-        cleanTextByRating = {}
+    
+    def generateCFD(self,reviews):
         
+        reviewsByRating = reviews.reviewsByRating
+        sortedRatings = sorted(reviewsByRating.keys())
+        
+        cleanTextByRating = {}
         for rating in sortedRatings:
             textBag = []
             
@@ -52,8 +51,29 @@ if __name__ == '__main__':
         # build up the CFD of words across specfic ratings. 
                 
         cfd = ConditionalFreqDist([(rating,word) for rating in sortedRatings for word in cleanTextByRating[rating]])
+        
+        return cfd
+        
+if __name__ == '__main__':
     
-        for rating in sortedRatings:
-            print "rating:%d"%rating
-            print cfd[rating]
+#    pageUrls = ['put relative urls here, base url will be in review page parser class']
+#    filenames = ['put filenames here, one filename per pageurl']
+    pageUrls = ['reviews/www.zulily.com','reviews/www.zappos.com']
+    filenames = ['/Users/jacoba100/data/reviews/zulily.pkl','/Users/jacoba100/data/reviews/zappos.pkl']
+    
+    for i in range(len(pageUrls)):
+        print "site: %s"%pageUrls[i]
+        sjr = SiteJabberReviews(pageUrls[i],filenames[i])
+        sjr.load()
+        
+        
+        asd = AnalyzeSiteData()
+        
+        asd.plotReviews(sjr)
+        
+        cfd = asd.generateCFD(sjr)
+
+
+
+        
     
