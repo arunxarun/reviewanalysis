@@ -39,3 +39,14 @@ To build an nltk ConditionalFreqDist:
   cfd = asd.generateCFD(sjr)
   
   
+  
+Classes: 
+
+# Review -- holds review text and rating
+# ReviewContainer -- contains a map of ratings that hold lists of reviews, and the logic for saving it to/loading it from disk. Contains a method stub to download the data that throws an exception because that method should be implemented in subclasses.
+# AnalyzeSiteData -- contains methods that use the ratings->reviews map to generate plots, ConditionalFrequencyDistributions, etc. 
+# SiteJabberReviews -- a subclass of ReviewContainer that has download logic specific to http://sitejabber.com
+
+
+  
+  
