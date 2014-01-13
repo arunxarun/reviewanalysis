@@ -6,7 +6,7 @@ Code I wrote to download, save, and analyze text from online review sites.
 
 Right now the only site I'm scraping from is SiteJabber (http://sitejabber.com)
 
-Requirements: 
+## Requirements: 
 
 nltk
 matplotlib
@@ -14,7 +14,8 @@ pickle
 beautifulsoup
 
 
-To get text data: 
+## Samples:
+### To get text data: 
 
   pageUrl = 'reviews/www.zappos.com'
   filename = "zapposreviews.pkl"
@@ -23,24 +24,24 @@ To get text data:
     
   reviewsByRating = sjr.download(True)
 
-To load that data from file: 
+### To load that data from file: 
 
   sjr = SiteJabberReviews(pageUrls[i],filenames[i])
   sjr.load()
   
-To plot ratings by review:
+### To plot ratings by review:
 
   asd = AnalyzeSiteData()
         
   asd.plotReviews(sjr)
 
-To build an nltk ConditionalFreqDist:
+### To build an nltk ConditionalFreqDist:
 
   cfd = asd.generateCFD(sjr)
   
   
   
-Classes: 
+## Classes: 
 
 * Review -- holds review text and rating
 * ReviewContainer -- contains a map of ratings that hold lists of reviews, and the logic for saving it to/loading it from disk. Contains a method stub to download the data that throws an exception because that method should be implemented in subclasses.
