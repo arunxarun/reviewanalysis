@@ -22,7 +22,7 @@ class ReviewContainer(object):
     def __init__(self,base,pageUrl,filename):
        
         self.base = base 
-        self.pageUrl = self.base + pageUrl
+        self.pageUrl = self.base+ '/' + pageUrl
         self.filename = filename
         self.reviewsByRating = {}    
         
