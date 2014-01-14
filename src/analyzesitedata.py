@@ -33,8 +33,8 @@ class AnalyzeSiteData(object):
         for rating in sortedRatings:
             textBag = []
             
-            print "rawRating = %d"%rating
-            print "review count = %d"%len(reviewsByRating[rating])
+#            print "rawRating = %d"%rating
+#            print "review count = %d"%len(reviewsByRating[rating])
         
             # build up a bag of all words in all reviews for this rating    
             for reviews in reviewsByRating[rating]:
