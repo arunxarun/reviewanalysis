@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 import re
 from nltk.probability import ConditionalFreqDist
 from nltk.corpus import stopwords
-
-
+from nltk import data as nltkdata
+from nltk.tokenize.punkt import PunktWordTokenizer
 class AnalyzeSiteData(object):
     
     def plotReviews(self, reviews):
@@ -27,7 +27,8 @@ class AnalyzeSiteData(object):
         
         reviewsByRating = reviews.reviewsByRating
         sortedRatings = sorted(reviewsByRating.keys())
-        
+        sent_detector = nltkdata.load('tokenizers/punkt/english.pickle')
+        pwt = PunktWordTokenizer()
         cleanTextByRating = {}
         for rating in sortedRatings:
             textBag = []
@@ -38,10 +39,14 @@ class AnalyzeSiteData(object):
             # build up a bag of all words in all reviews for this rating    
             for reviews in reviewsByRating[rating]:
                 rawText = reviews.text
-                sentences = re.split('[\.\(\)?!&]',rawText)
+                
+                sentences = sent_detector.tokenize(rawText)
                 for sentence in sentences:
                     lowered = sentence.lower()
-                    parts = lowered.split()
+                    parts = pwt.tokenize(lowered)
+                    # the last word in the sentence always has a period. Remove it
+                    parts[-1] = parts[-1][:-1]
+                    
                     textBag.extend(parts)
         
             # remove stop words
