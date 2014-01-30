@@ -31,13 +31,15 @@ class AnalyzeSiteData(object):
         @param rawText: a string of whitespace delimited text, 1..n sentences
         @return: the word tokens in the text, stripped of non text chars including punctuation
         '''
-        textBag = []        
-        sentences = re.split('[\.\(\)?!&]',rawText)
+        rawTextBag = []        
+        sentences = re.split('[\.\(\)?!&,]',rawText)
         for sentence in sentences:
             lowered = sentence.lower()
             parts = lowered.split()
-            textBag.extend(parts)
-            
+            rawTextBag.extend(parts)
+         
+        
+        textBag = [w for w in rawTextBag if w not in stopwords.words('english')]    
         return textBag
                     
     def generateCFD(self,reviews):
@@ -71,10 +73,10 @@ class AnalyzeSiteData(object):
         
         return cfd
     
-    def generateLeftJoinFreqDist(self,fd1,fd2):
+    def generateLeftSideFreqDist(self,fd1,fd2):
         '''
         this method traverses two FreqDists, and builds a third one that only contains terms that are in fd1
-        but not in fd2, in other words the 'left join' of the two
+        but not in fd2, in other words the 'left side' of the two
         @param fd1: the left side of the LHJ
         @param fd2: the right side of the LHJ
         @return: the LHJ
@@ -101,6 +103,8 @@ class AnalyzeSiteData(object):
         splits the input data into test and training sets. 
         '''
         reviewList = [(self.textBagFromRawText(review.text), key) for review in reviews.reviewsByRating[key]]
+        
+        
         
         return reviewList[: int(trainSetPercentage*len(reviewList))],reviewList[int(trainSetPercentage*len(reviewList)):] 
     
