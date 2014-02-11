@@ -12,6 +12,10 @@ from nltk.probability import ConditionalFreqDist
 from nltk.corpus import stopwords
 from nltk import data
 from nltk import NaiveBayesClassifier
+from collections import defaultdict
+
+import random
+
 class AnalyzeSiteData(object):
     
     def plotReviewCounts(self, reviews):
@@ -92,21 +96,54 @@ class AnalyzeSiteData(object):
                 
         return FreqDist(wordbag)
     
-    def generateTestAndTrainingSetsFromReviews(self,reviews, key, trainSetPercentage):
+    
+    def generateLearningSetsFromReviews(self,reviews, ratings,buckets):
         '''
-        @param reviews: ReviewContainer object
-        @param key: the key to extract reviews with 
-        @param trainSetPercentage: the percent of submitted reviews to allocate to the training set 
-        (the rest go to the test set) 
-        @return:  an array of tuples: 
-        [(tokenized array of words[], rating)...]
-        splits the input data into test and training sets. 
+        produces a set of data for supervised learning into labeled buckets 
+        trainSet is training data
+        devSet is data used to correct algorithm
+        testSet is data used to test algorithm
+        @param reviewsSet: array of ReviewContainer object
+        @param ratings: array of ratings to extract reviews with 
+        @param buckets: map of names to percentages to break learning data into, must sum to 1
+        @return:  bucket map of lists: [(tokenized array of words[], rating)...]
         '''
-        reviewList = [(self.textBagFromRawText(review.text), key) for review in reviews.reviewsByRating[key]]
         
+        # check to see that percentages sum to 1
+        # get collated sets of reviews by rating. 
         
+        val = 0.0
+        for pct in buckets.values():
+            val += pct
+            
+        if val > 1.0:
+            raise 'percentage values must be floats and must sum to 1.0'
         
-        return reviewList[: int(trainSetPercentage*len(reviewList))],reviewList[int(trainSetPercentage*len(reviewList)):] 
+        reviewsByRating = defaultdict(list)
+            
+        for reviewSet in reviews:
+            for rating in ratings:
+                reviewList = [(self.textBagFromRawText(review.text), rating) for review in reviewSet.reviewsByRating[rating]]
+                reviewsByRating[rating].extend(reviewList)
+                random.shuffle(reviewsByRating[rating]) # mix up reviews from different reviewSets
+            
+        
+        # break collated sets across all ratings into percentage buckets
+        learningSets = defaultdict(list) 
+        
+        for rating in ratings:
+            sz = len(reviewsByRating[rating]) 
+            
+            lastidx = 0
+            for (bucketName, pct) in buckets.items():
+                idx=lastidx + int(pct*sz)
+                
+                learningSets[bucketName].extend(reviewsByRating[rating][lastidx:idx])
+                
+                lastidx  = idx
+                
+        return learningSets
+         
     
     
     
