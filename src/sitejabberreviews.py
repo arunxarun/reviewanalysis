@@ -53,12 +53,7 @@ class SiteJabberReviews(ReviewContainer):
                 
                 r = Review(text,rawRating)
                 
-                if self.reviewsByRating.has_key(r.rating):
-                    reviews = self.reviewsByRating[r.rating]
-                else:
-                    reviews = []
-                    self.reviewsByRating[r.rating] = reviews
-                
+                reviews = self.reviewsByRating[r.rating]
                 reviews.append(r)
         
         if save == True:

@@ -5,6 +5,7 @@ Created on Jan 4, 2014
 '''
 import re
 import pickle
+from collections import defaultdict
 
 class Review(object):
         
@@ -32,9 +33,12 @@ class ReviewContainer(object):
         self.base = base 
         self.pageUrl = self.base+ '/' + pageUrl
         self.filename = filename
-        self.reviewsByRating = {}    
+        self.reviewsByRating = defaultdict(list)  
         
+    def addReview(self,review):
         
+        self.reviewsByRating[review.rating].append(review)
+           
     def load(self):
         
         with open(self.filename,'r') as f:
