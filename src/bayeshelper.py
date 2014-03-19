@@ -122,19 +122,19 @@ class BayesHelper(object):
     
     
     
-    def createReview(self,baseText,reviewLength):
+    def createReview(self,textFreqDist,reviewLength):
         """
-        @param baseText -  the distribution of words to choose from.
+        @param textFreqDist -  the array containing the frequency distribution of words to choose from.
         @param reviewLength -  the length of the review (in words) to build
         @return the generated review as a string
         """
-        randLen = len(baseText)
-        baseStr = ""
+        randLen = len(textFreqDist)
+        reviewStr = ""
         
         for i in range(reviewLength):
-            baseStr += (baseText[random.randint(0,randLen-1)] + ' ')
+            reviewStr += (textFreqDist[random.randint(0,randLen-1)] + ' ')
         
-        return baseStr
+        return reviewStr
     
     
     def partitionArray(self,partitions, array):
