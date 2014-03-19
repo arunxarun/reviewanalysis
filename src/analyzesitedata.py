@@ -12,7 +12,7 @@ from nltk.probability import ConditionalFreqDist
 from nltk.corpus import stopwords
 from nltk import data
 from nltk import NaiveBayesClassifier
-from collections import defaultdict
+
 
 import random
 
@@ -30,21 +30,7 @@ class AnalyzeSiteData(object):
         plt.plot(xvals,yvals)
         plt.show()
         
-    def textBagFromRawText(self,rawText):
-        '''
-        @param rawText: a string of whitespace delimited text, 1..n sentences
-        @return: the word tokens in the text, stripped of non text chars including punctuation
-        '''
-        rawTextBag = []        
-        sentences = re.split('[\.\(\)?!&,]',rawText)
-        for sentence in sentences:
-            lowered = sentence.lower()
-            parts = lowered.split()
-            rawTextBag.extend(parts)
-         
-        
-        textBag = [w for w in rawTextBag if w not in stopwords.words('english')]    
-        return textBag
+    
                     
     def generateCFD(self,reviews):
         
@@ -97,64 +83,12 @@ class AnalyzeSiteData(object):
         return FreqDist(wordbag)
     
     
-    def generateLearningSetsFromReviews(self,reviews, ratings,buckets):
-        '''
-        produces a set of data for supervised learning into labeled buckets 
-        trainSet is training data
-        devSet is data used to correct algorithm
-        testSet is data used to test algorithm
-        @param reviewsSet: array of ReviewContainer object
-        @param ratings: array of ratings to extract reviews with 
-        @param buckets: map of names to percentages to break learning data into, must sum to 1
-        @return:  bucket map of lists: [(tokenized array of words[], rating)...]
-        '''
-        
-        # check to see that percentages sum to 1
-        # get collated sets of reviews by rating. 
-        
-        val = 0.0
-        for pct in buckets.values():
-            val += pct
-            
-        if val > 1.0:
-            raise 'percentage values must be floats and must sum to 1.0'
-        
-        reviewsByRating = defaultdict(list)
-            
-        for reviewSet in reviews:
-            for rating in ratings:
-                reviewList = [(self.textBagFromRawText(review.text), rating) for review in reviewSet.reviewsByRating[rating]]
-                reviewsByRating[rating].extend(reviewList)
-                random.shuffle(reviewsByRating[rating]) # mix up reviews from different reviewSets
-            
-        
-        # break collated sets across all ratings into percentage buckets
-        learningSets = defaultdict(list) 
-        
-        for rating in ratings:
-            sz = len(reviewsByRating[rating]) 
-            
-            lastidx = 0
-            for (bucketName, pct) in buckets.items():
-                idx=lastidx + int(pct*sz)
-                
-                learningSets[bucketName].extend(reviewsByRating[rating][lastidx:idx])
-                
-                lastidx  = idx
-                
-        return learningSets
+    
          
     
     
     
-    def encodeData(self,trainSet,encodingMethod):
-        '''
-        @param trainSet: the set of tuples structured as (textBag, rating) 
-        @param encodingMethod: a function that encodes the data
-        @return: a tuple set of encoded data and rating
-        '''
-        
-        return [(encodingMethod(tokenizedText), rating) for (tokenizedText, rating) in trainSet]
+   
              
         
     

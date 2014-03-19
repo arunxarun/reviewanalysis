@@ -1,0 +1,1292 @@
+(dp0
+I3
+(lp1
+ccopy_reg
+_reconstructor
+p2
+(creview
+Review
+p3
+c__builtin__
+object
+p4
+Ntp5
+Rp6
+(dp7
+S'text'
+p8
+VProduct was good but too expensive. I could have purchased same item from Amazon at much cheaper price.
+p9
+sS'rating'
+p10
+I3
+sbag2
+(g3
+g4
+Ntp11
+Rp12
+(dp13
+g8
+VI like the selection but I'm not really happy how they're distribution works.  If I order multiple shoes, it either takes a long time or I have to pay extra for shipping.  Only use them if you want to get 1 pair.  In which case they are great.
+p14
+sg10
+I3
+sbag2
+(g3
+g4
+Ntp15
+Rp16
+(dp17
+g8
+VVery good selection, but overpriced compared to other online shoe stores.  I think they build the cost of "free shipping" and "free returns" into the original cost of the product to make people think they are getting a deal, but really they aren't.  I used to shop there a lot, but lately I find better prices through Amazon or the designer's website directly.
+p18
+sg10
+I3
+sbasI4
+(lp19
+g2
+(g3
+g4
+Ntp20
+Rp21
+(dp22
+g8
+VI enjoy Zappos. Tons of inventory to browse, simple enough site to navigate and easy checkout (I'm in the US). Veru happy with the service, products and timeliness of each of my orders.
+p23
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp24
+Rp25
+(dp26
+g8
+VIf you want shoes this is the place to go.... Great deals and have anything you need to match any outfit. Only reason I gave it a 4 is because I had an issue with an order before. But I would recommend all ladies to check it out for their shoe fetishes. lol
+p27
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp28
+Rp29
+(dp30
+g8
+VI don't know how they do it but they have super fast delivery and great prices. I will be going back to them to get another pair of uggs!
+p31
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp32
+Rp33
+(dp34
+g8
+VI would give this site 5 stars, but they don't deliver to Canada.  I wanted to purchase a pair of shoes for my sister who lives in Vancouver and they don't deliver there :(
+p35
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp36
+Rp37
+(dp38
+g8
+VGreat return policy, a bit pricy, but overall a great store for the perfect shoes.  Shop for shoes online only where the return policy is as favorable as zappos.com, otherwise you risk losing money.
+p39
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp40
+Rp41
+(dp42
+g8
+Vbought some foot petals to try and accommodate a couple of shoes I have. They shipped very quickly and it arrived quickly but for some reason didn't email me a shipping confirmation
+p43
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp44
+Rp45
+(dp46
+g8
+VYou can find many things at cheaper costs compared to other retail stores. It's very easy to more around the site and find what you need. Love shpping here!!
+p47
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp48
+Rp49
+(dp50
+g8
+VI ordered pair of shoes form them some time in the past. They were very nice quality and fas delivery
+p51
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp52
+Rp53
+(dp54
+g8
+VI am a VIP member so I get free overnight shipping and free returns. I love their service and selection. I have to admit that their sales may not be as good as other sites so I will only buy from here if I know that I can't get it cheaper elsewhere. For example, Uggs are never on sale so I will def order from Zappos and get them the next day.\u000a\u000aI am a bit concerned now because I got an email last week that their system got hacked. They are asking all their customers to change their password and if we use the same password for other sites to do the same.
+p55
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp56
+Rp57
+(dp58
+g8
+VNothing fancy - ordered an electronic gift card for my sister because I waited too long to get her a real gift. It arrived in less than 20 minutes and looked good enough to print.
+p59
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp60
+Rp61
+(dp62
+g8
+VThey're customer service is out of this world, I remember my first order like it was yesterday, very nice!! And I love the fact that you can always make returns. I just sometimes wish their prices were more competitive. As of late I haven't bought anything there because I can usually find it cheaper elsewhere :( Awesome website though, I sometimes just browse because their pictures of the products are really good too... Why aren't you cheaper zappos? lol, I guess you can't have everything!
+p63
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp64
+Rp65
+(dp66
+g8
+VI bought some foot petals to try and accommodate a couple of shoes I have.  They shipped very quickly and it arrived quickly but for some reason didn't email me a shipping confirmation.  I'm used to that from 99.9% of online retailers as it's extremely helpful in tracking something that's being delivered to a work address, for example.
+p67
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp68
+Rp69
+(dp70
+g8
+Vi love how it is very easy to browse around and the free shipping and return policy! i just don't like how when i like something, they don't have it in my size.
+p71
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp72
+Rp73
+(dp74
+g8
+VI orderd some Melissa 'anglomania' dragon lady jelly shoes from them, they are just the cutest shoes with a big heart placed front and center on the shoe, i ordered from them mostly because i was in awe of the 365 days return policy, you can return shoes if they are in the condition they came in; i tried the shoes on but theres not much you can do  to see if theyll bother you really without making them look worn, so i decided to make a risk and wear the shoes out, OUCH they hurt badly about halfway through the day ( and most was just sitting in class), & theyre definitely worn on the botton now, so im not going to try and return them, the plight of ordering shoes online haha.
+p75
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp76
+Rp77
+(dp78
+g8
+VMy Zappos strategy: I buy 10 pairs of shoes, try them all on, and then ship them all back except for the one I want. I know it seems like I'm wasting their money, but I buy more shoes that way and it's sort of great. Zappos isn't so cheap but I guess that's okay.
+p79
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp80
+Rp81
+(dp82
+g8
+VI ordered some boots from this site. They were very affordable. The only issue was that they sent me the wrong boots. They were by the same company, the same material and color, but they were the wrong style. I didn't realize this until I actually wore them out. \u000a\u000aIn the end, it turned out that I really liked them anyways. I didn't want to risk sending them back for the other boots, and then find that the boots they sent me by mistake I liked better. Not that I could send them back now, since I already wore them. \u000a\u000aI am still a happy customer, because it turned out that I really liked the boots they sent me, even if it was a mistake.
+p83
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp84
+Rp85
+(dp86
+g8
+VNeed New shoes? - quick cheap shipping, awesome selection for men women and children for all seasons and usually have some sort of special going on so you can save even more off thier already reasonable prices. most of the products offered on this site have a pretty good track recored for durability and comfort with plenty of consumer feedback and reviews so you can get a more illistrated mental image of the product youre buying. if your looking for a shoe company that care about your comfort and posture check out Chaco footwear or Earth shoes.
+p87
+sg10
+I4
+sbag2
+(g3
+g4
+Ntp88
+Rp89
+(dp90
+g8
+Vperfect for every shoe whore - i love this website!! it''s so easy to shop for shoes here. you can narrow it down by size and color and style of shoe, or you can just browse around in general if you're not looking for anything specific. the best thing though is that returning stuff is free!! so, i usually will get  something in a few sizes, figure out if i like the shoe and which one fits best and return all the rest.  it's been great though for browsing to find the perfect shoe when i know the style and color i want, and they have a wide range of prices, so you're bound to find a pair for the right price too!
+p91
+sg10
+I4
+sbasI5
+(lp92
+g2
+(g3
+g4
+Ntp93
+Rp94
+(dp95
+g8
+VSite easy to navigate. Ships quickly, returns are easy. Prices for majority of shoes are significantly below that of brick-and-morter stores.
+p96
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp97
+Rp98
+(dp99
+g8
+VI ordered a pair of shoes a few months ago and upon receiving them, I thought they might be too big, but I was afraid that the next size down would be too small. I wore them around the house for awihle before putting them in my closet and forgetting about them. I found them recently and decided to return them and try the smaller size. Thanks to Zappos' fantastic 365 day return policy, I was able to return them without a problem, even though it had been several months. When I called customer service about the return, they were extremely helpful and nice...the epitome of how customer service should be. They paid the return postage for me to ship the bigger size back and covered the postage on the new ones. Even though I had bought the original shoes on sale and they were not any longer, they didn't charge me any more to send me the other pair. To top things off, I got my new pair in 2 days! I could not be more happy with the service and would recommend this company to anyone.
+p100
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp101
+Rp102
+(dp103
+g8
+VWhat an awesome online store. I am able to order several pairs of shoes and try them on in the comfort of my home and the ones that I decide I do not like or are are not the right fit I am able to return without any hassle. The return postage is paid for by Zappos. Great business model. I remain a faithful customer.
+p104
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp105
+Rp106
+(dp107
+g8
+VI Have ordered shoes in the late afternoon and gotten my shoes early the next day. I love their service and selection, and you can't beat free shipping both ways! It's the only way I buy shoes!
+p108
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp109
+Rp110
+(dp111
+g8
+VAlways my first choice to go because of superb customer service which make you assured that your order will be kept informed of and be in good quality.
+p112
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp113
+Rp114
+(dp115
+g8
+VI love this website!  The customer service is amazing.  The items are always top quality and delivered in an unbelievable time frame.  Go Zappos!!
+p116
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp117
+Rp118
+(dp119
+g8
+VI love the convenience of trying on shoes at home and getting to wear them for an hour or so to see if they are really comfortable for the long run. Zappos has a big selection, helpful reviews, easy-squeezy free returns, and they are very friendly too. Not the cheapest prices, but worth the perks!
+p120
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp121
+Rp122
+(dp123
+g8
+VGreat variety of brands, alwayz free fast shipping both ways, 365 days return policy and 24 hours costumer service----> what else can you ask for? Never had any problem, transactions are alwayz smoth and easy -_o.. One of my favorite web sites!!!
+p124
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp125
+Rp126
+(dp127
+g8
+VSlightly obsessed with boots!! Zappos helps with that. Excellent selection, super fast shipping. Love all my purchases!
+p128
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp129
+Rp130
+(dp131
+g8
+VThey are 99% perfect but they refused to post my negative review about a pair of shoes! They filtered it out! So their reviews are fake-ish I guess.
+p132
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp133
+Rp134
+(dp135
+g8
+VI have always had great customer service from Zappos.  No complaints!  They are very understanding and friendly over the phone.  Excellent company and excellent customer service.
+p136
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp137
+Rp138
+(dp139
+g8
+VJudging by all the great reviews on this site it seems that my review is not needed but here it is anyway. Zappos has a huge selection of quality brand items at great prices. Usually I can find it cheaper on Zappos than any of the retail stores. First off, the shipping is fantastic. It comes basically comes overnight and the best part is that it's free. Sometimes items can take maybe up to two or three days but I'm used to waiting the standard 7-14 so no complaint here. The have an excellent return policy, probably the best I've ever seen and you can alway's find your size which can sometime be daunting for me because I'm very tall and slender and that makes shopping for pants a nightmare. Zappos has totally eliminated that problem. The only down side is when an item goes out of stock it takes quite sometime for them to restock it so when this happens chances are you should just check somewhere else other wise you will be waiting for it for a long time. Zappos is definitely one of the best sites I have ever had the honor of dealing with.
+p140
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp141
+Rp142
+(dp143
+g8
+VZappos is THE best site from which to order shoes and clothes. There is free shipping both ways but I've only ever had to return one item and it wasn't Zappo's fault but the shoe manufacturer's misrepresentation of their sizes which ran smaller than they stated. Zappos couldn't have been more helpful. It was as simple as clicking a box to return the shoes and they immediately responded, asking my preferences, I chose having my return shipping label emailed to me for printing at my convenience. It arrived immediately.   My credit card was reimbursed promptly with no problems. \u000aZappos has put customer service at the top of their list in importance and it shows. A bonus: Not only are their representatives efficient and helpful on the phone, they're funny too! I would recommend Zappos.com to anyone anywhere any time.  Order by 1pm and you'll have it the next day!  It doesn't get any better than that!
+p144
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp145
+Rp146
+(dp147
+g8
+VLove your company culture and values! Also, my experience buying a pair of shoes was great. Thank you!
+p148
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp149
+Rp150
+(dp151
+g8
+VZappos is a great go to online merchant to purchase shoes. We have placed many orders through this site with no concerns or complications. The website is easy to navigate, the prices are more than reasonable and its easy to find great brand name shoes! Love this site, would definitely recommend it to my family and friends.
+p152
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp153
+Rp154
+(dp155
+g8
+VAre you kidding me, zappos needs reviews? You don't know how awesome they are? For shame! Free shipping both ways, great service, huge selection!
+p156
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp157
+Rp158
+(dp159
+g8
+VI love this site; I spend too much time looking, but all of my favorite shoes have been found here. My current favorites are my La Sportiva trail running shoes, as they feel like they were made for my feet. Zappos.com is where I turn to first when shoe shopping!
+p160
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp161
+Rp162
+(dp163
+g8
+VLove their selection and speedy deliveries.  Products are of quality.  I purchase 90% of my kids' shoes there and for myself as well.  I love their free return policy, which is important for shoes given that fit for shoes is not always consistent in each pair of shoes you get.\u000a\u000aIt's an Amazon company... no wonder it's a great shopping site!
+p164
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp165
+Rp166
+(dp167
+g8
+VThe men's Levi are as described on website and fit perfect. I'm glad for trying online shopping for the first time. Zappos is an excellent service
+p168
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp169
+Rp170
+(dp171
+g8
+VI love this website, it is easy and simple and usually get your delivery before the date said. Perfect service.
+p172
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp173
+Rp174
+(dp175
+g8
+VZappos is the best shoes website, My favorite shoes only on zappos. I'm tired of never-ending shop walk where nothing can be found. Zappos makes everything so easy. So easy browsing, I can find anything I desire
+p176
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp177
+Rp178
+(dp179
+g8
+VZappos.com has made our lives so much easier. I have foot problems and it often takes a very long time for me to find shoes which fit properly. Now, instead of dragging around from store to store, I can buy a bunch of shoes at Zappos and see what works for me. Often I wind up returning quite a lot of shoes, but there are ones that work, and I keep them. \u000a\u000aAdd to that a teenager who loves shoes but hates to shop. She also has really small feet and it can be hard to find her size in stores. That is another way that Zappos shines, IMO. And when both kids needed shoes for proms or special occasions, Zappos again really fit the bill. I got the shoes AND the little clutch purse there. Slam dunk! \u000a\u000aNone of this would be possible without their free shipping/free returns policy. And it's a 365-day return policy, too. I don't know how they can afford to do that, but they do honor it. \u000a\u000aI still go down to my local high-quality shoe store from time to time, but if I'm searching for a particular thing and don't have the time or energy for that sort of physical shopping, Zappos really helps.
+p180
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp181
+Rp182
+(dp183
+g8
+VZappos is legit, there is a reason they have so many positive reviews.  I ordered 3 pairs of shoes so far from them, and I will continue.  I had a question about an order and I actually got a live person on the phone!!  So rare these days.  They don't outsource their customer service and keep the jobs in the US, so I am all for that.  This is one site I definitely trust.
+p184
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp185
+Rp186
+(dp187
+g8
+VLove their return policy - I have hard to fit feet and cannot buy online without being able to try them on and return what doesn't fit. They also often carry my size so that I don't have to stare forlornly at the empty spot for my size in the store. Never had a problem with returns or purchase or shipping. And they're fast, too! Awesome customer service.
+p188
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp189
+Rp190
+(dp191
+g8
+VIf you are willing to buy online, I recommend you to go through zappos.com. I've got a great service from them and I can say you they do it always...\u000a\u000aThanks to zappos.com team..
+p192
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp193
+Rp194
+(dp195
+g8
+VAmazing shopping experience and customer service. I recently ordered some new balance running shoes from Zappos. The pricing was great and since I am a VIP member I received my shoes the next business day. I also love their 365 day return policy. I wish more websites were like Zappos.
+p196
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp197
+Rp198
+(dp199
+g8
+VAwesome site design.  Great product selection.  Prices tend to be higher than other sites, but availability makes up for it
+p200
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp201
+Rp202
+(dp203
+g8
+VI love this site as so many shoes i love vary from size to size and Zappos shipping program makes it so easy if you get a shoe that doesnt fit correctly or needs to go back for another pair. I love when I call I get a real US human and the prices are very competitive. I hate to say I now goto neiman marcus, try on shoes i love then go eat and see if zappos can beat the price and I usually always end up buying from zappos.
+p204
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp205
+Rp206
+(dp207
+g8
+VI have ordered shoes on this site multiple times.  Some I kept, some I returned. Never a problem, and the refund posts promptly to my account.
+p208
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp209
+Rp210
+(dp211
+g8
+VI love this site. They have such a large selection and free shipping (even on returns). I've returned orders no questions asked and with a quick refund.
+p212
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp213
+Rp214
+(dp215
+g8
+VI have orrdered from Zappos.com several times and had a wonderful experience. I have only had to return something one time. It was easy to return with a prepaid label that was free to me. Also, I recieved a free overnight shipping code for my next order.  Their customer service over the phone is Awesome!! I don't say that about many websites or even stores for that matter. I was able to understand the lady that helped me with a question I had about things before I placed my order. I always recommend Zappos.com!!!
+p216
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp217
+Rp218
+(dp219
+g8
+VI love zappos!!!  I love the prices and the descriptions are accurate.  My favorite thing about this site is the shipping!  If I order something Monday-Thursday, I have it the next day :D
+p220
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp221
+Rp222
+(dp223
+g8
+VI don't know where I would be without zappos! I order from their site at least once monthly. I love the interface and the ease with which you can find and read reviews for items. They also have gauges that show whether the item runs small, large, narrow, etc. This is extremely helpful. Unfortunately, I've had to send a few things back due to size issues, but their customer service is always prompt and I get my money back within the week. I live on the mid-atlantic seaboard and I always receive my shipment within 2 business days of ordering it, sometimes sooner. I also order from their daughter site 6pm.com, and have always had the same great experience I've had with zappos. No reviews on 6pm, though.
+p224
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp225
+Rp226
+(dp227
+g8
+VI've ordered about 20 pairs of shoes from Zappos over the past 6 years. They are one of the best online retailers in the world. I've never had any trouble returning an item or issues with an order. Their shipping is so fast! I can always find the shoes I'm looking for on Zappos.com or Nordstrom.com. Zappos doesn't ship internationally yet, but since I've moved from the US to Australia,  I hope they start soon!
+p228
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp229
+Rp230
+(dp231
+g8
+VI can't say enough about my experience with zappos. The merchandise is awesome, and the shipping is FAST. I have ordered from them for the last 3 years and have been very happy with their service and products.
+p232
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp233
+Rp234
+(dp235
+g8
+VI LOVE this site. They are AMAZING! I bought Weboo shoes a WHILE ago, they don't make them I guess now :(. The weboo shoes were too small so I called Zappos customer service. They overnighted a bigger size without receiving the small ones I still had. When I was about to send them back I found out my cousin's little daughter could fit in them and so I called Zappos customer service again. They were so nice about everything. They charged me for keeping the other shoes, I mean come on they aren't going to give out free shoes haha, and there was no drama. It was so amazing. I have ordered numerous other shoes from them over the past year and a half, maybe two years. I have never ever had a problem with them at all. They are an amazing website.
+p236
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp237
+Rp238
+(dp239
+g8
+VAll on-line retailers should take a lesson from Zappos! They have the best customer service, super fast shipping, an excellent return policy and no charge for returns. When I called to order a different size on an item, they sent it even before I returned the item that did not fit. Everyone at Zappos is friendly and helpful ... you can tell they enjoy working there. And, I enjoy doing business with them and recommending them to others!
+p240
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp241
+Rp242
+(dp243
+g8
+VZappos is great. I love their iPhone app. I have used them internationally many times over the last few years. They are solid and reliable. They always deliver, and they always answer e-mails. I had a problem and it is not easy hard to return shoes because I am outside the USA, and they came up with a very fair solution.
+p244
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp245
+Rp246
+(dp247
+g8
+VI love this site cause the shipping is so fast! It's coming like the next day sometimes.  The returns are easy and I havn't had any problems and I ordered maybe 4 times.
+p248
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp249
+Rp250
+(dp251
+g8
+VThis site is so simple and awesome! A lot of items to choose from, and the best part: FREE RETURNS, FREE SHIPPING! :) I have a hard time finding shoes that fit, so I took a chance with one pair that didn't work out. They responded quickly with a label for me to ship the shoes back, and they quickly sent me the right size. I love this site.
+p252
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp253
+Rp254
+(dp255
+g8
+VIn addition to all the other great reviews here about Zappo's service, professionalism, returns, refunds, etc.,  I want to mention that I've experienced that they do honor their price reduction policy, if they reduce the price of an item on their site within their specified policy.  You just have to do the work of going back online and looking up your items to see if the price went down.   It is a no hassle deal, just go online or call to let them know, and they auto-refund the price difference.\u000a\u000aI must add how wonderful Zappos was in a certain situation I got myself into with Paypal and a warning to you all about Paypal to share with your friends, as well.   \u000a\u000aI had just validated my bank account with Paypal, because that gives you better buying power on eBay.  When I next paid for an extremely large order with Zappo for over $2,000, I paid through Paypal like I normally did, only I didn't realize that once you validate your bank account, the greedy Paypal scumbags make your bank account the DEFAULT payment option and you cannot change your default account and make it "stick"; you can only change your mode of payment during the last stage of each and every purchase transaction thereafter, unless you remove the validation.\u000a\u000a(I call Paypal  greedy scumbags because they have the market on online payment yet choose a default option that no customer would want  and one that you may miss if in a hurry and be in a world of hurt as a result... - who the heck would intentionally choose to pay cash out of your bank account instead of all the benefits and protections that your credit card would afford you?)\u000a\u000aI nearly died a week later, when I noticed Paypal took that money out of my bank account and all my auto-payments from my checking were about to bounce.  I quickly went through what I needed to return to Zappo's, as I knew most of the shoes would not fit my difficult to fit feet and called Zappos Customer Service to notify them of the return, hoping they didn't have a long wait with their refund process, and expecting them to tell me a week or so after receipt of my goods.\u000a\u000a==========You won't believe this!   Before the goods even left my house, right while I was on the phone, Zappos refunded the amount through Paypal, and the money was redeposited two days later from Paypal back into my account.  I'd never experienced such a wonderful, amazing, caring and considerate company as Zappos before in my life!    \u000a\u000aP.S.  Now, I must mention that I'd purchased several hundred dollars from Zappos  in the past and was a VIP customer, but still...!!.  I guess they just figured that if they didn't receive the return, they certainly had the legal right to charge me again.  Yet, I've never known a company to refund, without even a postal/ups confirmation #, only their own company's computer return confirmation # was used.\u000a\u000aZappo's, you're the greatest!
+p256
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp257
+Rp258
+(dp259
+g8
+VBest online shoe store ever!  I've spent hours on this site and always find cool shoes that noone else has!
+p260
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp261
+Rp262
+(dp263
+g8
+VGreatest return policy.  They even took my order back after 365 days and gave me a full credit.  Unbelievable.  Great prices too.
+p264
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp265
+Rp266
+(dp267
+g8
+VAmazing experience with this website.  Truly one of the greatest ecommerce websites out there.  Great customer service.  Shipping was lightning fast, and the products are top notch.
+p268
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp269
+Rp270
+(dp271
+g8
+VThis is the best site ever!!! Great customer service and products. Great sales when you can catch one, but I have spent small island nation amounts and zappos. Zappos has the best couture collection as well and reasonable items.
+p272
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp273
+Rp274
+(dp275
+g8
+VShopping here is just like shopping at the store.  They're as fast as others claim.  As far as pricing, they're not exactly the cheapest.  They make up for it with awesome service, speedy delivery and a large inventory.  I know I sound like a "zappos robot", but it's all true!  I know because I've experienced it all myself.
+p276
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp277
+Rp278
+(dp279
+g8
+VZappos gives you one of the best web shopping experience - free,fast shipping both ways, great customer service and good inventory. The prices are not always competitive though, but definitely not too overpriced.
+p280
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp281
+Rp282
+(dp283
+g8
+VThis company is great!  I get most of my shoes from them they are usually here the next day and no problem returning them. If you want to exchange for a different size or style you can call them, they will give you credit and send out the new pair same day and you can print your return label right on their site.  Best company ever !!!!
+p284
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp285
+Rp286
+(dp287
+g8
+VThis is how every online shopping experience should be! I love Zappos. Free shipping and returns is an amazing concept. I often order 3 or 4 pairs of sneakers and try them on, decide which ones to keep and return the others. If I can buy something on Zappos, I will, even if I can find it a little cheaper on other sites because with shipping costs, Zappos almost always ends up being the cheapest option.
+p288
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp289
+Rp290
+(dp291
+g8
+VI have ordered from this website multiple times and have always found them very customer friendly.  They are helpful with orders, ship quickly (usually overnight!), are fantastic with returns and credit my Visa quickly.  The quality is always fantastic as is the communication! I decided I needed trailrunners as backup shoes to my hiking boots a few days before I was to leave for Peru to backpack 26 miles to Machu Picchu.  Zappos.com was fantastic about this, shipped me the shoes overnight, and the customer service person then sent me a note with well wishes for a fantastic hike to Machu Picchu!  I wish all websites were like Zappos.com!  I'd recommend this website to everyone!
+p292
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp293
+Rp294
+(dp295
+g8
+VI purchased a pair of Heely's for my son's 6th birthday, needless to say they were too small when he tried them on. It was a Saturday night and he was very upset but I called customer service anyway. I told them the shoes were too small and he was really upset that he couldn't wear them yet. The gentlemen I spoke with was very understanding and over nighted me a larger size and we had them Tuesday afternoon. To my son's surprise, they arrived much earlier than I had expected. I would buy from them again without any question!
+p296
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp297
+Rp298
+(dp299
+g8
+VSIMPLY THE BEST!!!\u000a\u000aNo hassle returns ever, plus you get exactly what is advertised!\u000a\u000aThis review is based on my personal experience with zappos.com
+p300
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp301
+Rp302
+(dp303
+g8
+VLove it. Get my stuff right away. Excellent customer service! Will buy from their site again and again and again ;)
+p304
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp305
+Rp306
+(dp307
+g8
+Vtheir return policy and customer service is truly awesome.  the selection is great and to the point where there is too much to choose from.\u000aother than that, wouldn't consider buying shoes from any other online retailer.
+p308
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp309
+Rp310
+(dp311
+g8
+VOMG OMG OMG, I love zappos so much.  Resently bought this amazing lacoste bag, shipping next day, AND they sent me an extra gift.  Wowwy wow, you guys and girls in customer service keep it up, this was the best product recomendation EVER.
+p312
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp313
+Rp314
+(dp315
+g8
+VThe first time I ordered shoes from Zappos I got the wrong size. Sending them back for new ones was a breeze. No one has better service than zappos.
+p316
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp317
+Rp318
+(dp319
+g8
+VZappos is the most amazing online company. I've placed 3 orders with them and always received my packages within 1 business day. Absolutely no complaints. Fantastic return policy and customer service. Highly recommend.
+p320
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp321
+Rp322
+(dp323
+g8
+VNo doubt a 5 star experience. I ordered sunglasses and a travel bag from zappos. Of course the customer service was incredible. I didn't end up having to need the 365 return policy benefits, but it was a nice relief to know it was there (and still is there) in case anything happens. Big 5 star thumbs up.
+p324
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp325
+Rp326
+(dp327
+g8
+VThis site was the only store to have a Northface vest that my son's girlfriend wanted in stock at Christmas time- and I got it at a decent price. Very quick shipping-no issues here!!!
+p328
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp329
+Rp330
+(dp331
+g8
+VThe best of the best!  We use this site at least 2 - 3 times per year and love it.  It is easy to use, simple to search for unique sizes and widths and great customer service.
+p332
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp333
+Rp334
+(dp335
+g8
+VThis is unbelievable!  Zappos.com is terrific.  An almost Wal-Mart-like return policy.  Their images accurately portrayed the TEVA's I bought.  My mother bought these as a gift for me and they shipped them to my address even though it was different than thee credit card.  That is something many companies do not do.    I did not have a high enough limit on my card, so my father bought me an HP laptop and it didn't show up for 2 weeks, we called and inquired, apparently the credit card did not match the shipping address, they didn't call.  Tried again with them.  Same thing.  Finally on the 3rd try got it.  Then went through the same thing with a industrial printer with them, SAME thing.  Zappos on the otherhad was flawless.  My mother bought me this gift on a Sat. I got them either Monday or Tuesday!  Well packaged, flawless and she also got an email confirmation.  Absolutely at the top of the internet retail craft.  Probably the best or one of the best for footwear.  They should be used as a case study for internet retailers.
+p336
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp337
+Rp338
+(dp339
+g8
+VExcellent! Never any problems encountered. Usually place an order and receive it 2 days later. Quality of shoes are usually great! Returns, if there are any, are usually easy to do. Love, love, love this company! And most importantly, there is a LIVE person to speak to if the need arises. Alot of online companies can learn from this site's customer service procedures!!!
+p340
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp341
+Rp342
+(dp343
+g8
+VLOVE, LOVE, LOVE this site! How I wish every shopping website's like Zappos! NO HASSLE WHATSOEVER! I found out about Zappos more than 5 years ago. I've been a Zappos shopaholic eversince. I have at least 5 purchases this year from shoes to watch to skin care and its not even close to the end of year yet. I wasn't able to use the FREE returns but I'm pretty sure it wouldn't be a problem if ever I need to. Yes! They're  also selling skin care and beauty products, and beddings, and watches, and fashion jewelries, and so on! I wish Zappos would also sell pet products for my 4-legged "son" and "daughter", and furnitures for my home. I like the videos of the products modeled by actual, normal people like you and me not by skinny models. I can better visualize how the product would look on me! Zappos, you did a good job, keep it up! Zappos is not a 4-star website, it's a 5-star site!
+p344
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp345
+Rp346
+(dp347
+g8
+VGreat experience, no issues with the coat that I had purchased.  Great especially during the holidays with overnight shipping and good return policy, couldn't ask for more.
+p348
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp349
+Rp350
+(dp351
+g8
+VExcellent website! They have more than shoes for the whole family. It is incredible how much stuff they have.  Also shipping is super fast. If you order before 2pm EST your order will be upgraded to next day shipping.  They have no hassle returns with free shipping BOTH WAYS! You can also return shoes 364 days after you bought them. It is rare to find internet companies with such great customer service. I would give them 10 stars if I could!
+p352
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp353
+Rp354
+(dp355
+g8
+VHave found shoes that I can't find anywhere else.  Good sales. Fast shipping.  Good prices. All -around good company
+p356
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp357
+Rp358
+(dp359
+g8
+VRecently purchased a bag, didn't work for me. I contacted zappos customer service and my issues were resolve quickly. I do think some items are highly priced, but shipping is fast and no hassle returns. \u000a\u000aMM
+p360
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp361
+Rp362
+(dp363
+g8
+VIt's zappos - what bad can i say about the site. Who else has a 1 year return policy. Seriously zappos - you're amazing
+p364
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp365
+Rp366
+(dp367
+g8
+VI love Zappos!! Free shipping in most cases, and free return shipping if it doesn't work out. I have purchased numerous shoes and a couple of handbags from Zappos.  I have kept most because the descriptions are very good and stuff is usually as described. The few that I have returned were easy returns. Did I mention free return shipping? And the money is refunded promptly.  They also have a really good selection and lots of search options.  The pages load quickly even with all the thumbnail photos. Love you Zappos!
+p368
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp369
+Rp370
+(dp371
+g8
+VIf you have wide feet, narrow feet, long feet, short feet, or feet in general, Zappos has exactly what you need. They have the best selection of any online shoe store I have ever visited and their customer service is unbeatable. I very rarely find identical shoes on a different website for a slightly lower price, but the free shipping makes up for that potentially slight issue. When you order from Zappos, you get your shoes almost immediately. If you have to return your shoes, you get your refund or credit almost immediately. And with a whole year to decide whether or not you want to keep your purchase, it's impossible to get stuck with something you don't want because you got too busy to return it in time. \u000a\u000aA+ all the way!
+p372
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp373
+Rp374
+(dp375
+g8
+VThis is my absolute favorite site to shop from.  The customer service is above and beyond anything I could have ever expected.  My purchases are delivered overnight, returns are free and the selections are phenomenal.\u000a\u000aYou will love this site.
+p376
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp377
+Rp378
+(dp379
+g8
+VI wanted shoes from them that they did not have in my size.  So, I called them to inquire about a backorder.  They said I could wait or buy it from somebody else right now.  They found the shoes in my size at a competitor site, and then gave me the contact info.  Awesome service!  I will always check with zappos first.
+p380
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp381
+Rp382
+(dp383
+g8
+Vi love, love, love zappos! firstly, as mentioned by so many other reviewers- their return policy is the best i have ever seen. 365 to return your shoes, and free shipping both ways! secondly, their selection is so wide and expansive- you can find essentially anything on this website. they have many designer brands for a cheaper price, as well. in addition, they make the site very easy to navigate and they also provide you with a feature where you can sign up to receive updates on your favorite brand. for instance, everytime aldo adds new shoe styles to zappos.com, i receive an email informing me of this. it's really wonderful for those of us who continuously buy shoes- especially from one brand.\u000a\u000amy advice is this- when it comes to shoes, always use zappos. their shipping is fast and free, and their return policy is perfect. no other website can beat that. it's no wonder zappos is so popular!
+p384
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp385
+Rp386
+(dp387
+g8
+VAMAZING!!!  Usually went I shop... I think about it.  Do I really need it bad enuff?  If I don't like it.  When will I ever find the time to take it back?  If I order it online.  Will it be here before my next birthday?\u000a\u000aNo worries.  Zappo's customer service and deliveries are top notch!  On my most recent order; after placing the order the very next day I second guessed myself and wondered if I had even submited the order.  Then my doorbell rang.  It was a package from Zappo's!  \u000a\u000aIt would be a better world if Zappo's could run the IRS.  Imagine that... Next Day Service!
+p388
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp389
+Rp390
+(dp391
+g8
+VRidiculously cool! Just started buying from them and can't stop! I purchased 5 pairs of shoes/sneakers so far and returned one without problem.. Can't be beat!
+p392
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp393
+Rp394
+(dp395
+g8
+VBefore I left for Guatemala, I remember looking at Zappos.com a couple times for shoes, but never took the plunge to making a purchase. Now 5 years later, to my surprise, I return to the U.S. and Zappos is about as big as Amazon. Well I guess it's about time someone emphasized the value of customer service as much as Amazon does. I ordered recently a Jack Spade bag from Zappos - got my confirmation and my bag as promised. Couldn't be happier.
+p396
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp397
+Rp398
+(dp399
+g8
+VI bought three roxy sandals from Zappo since 2009. Still wearing them until now.  Love their fast shipping and never need to return the stuff so far.  Very good service and resonable price.  Support this website+++
+p400
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp401
+Rp402
+(dp403
+g8
+VI love their on the spot (as in immediately on the website) able to tell you if there is any more in your size left.  Got great shoes, great price, got them quickly, and I didn't have to worry if they didn't fit because I can return them and they will pay.  1 year to return them.  If I had to it'd be on my time not theirs...that's great!!  Shoes came and they fit great and they are comfortable!  That's great for your pair of wedding shoes :D  Definately buying from them again!!! P.S. I hate shoe shopping and I love this place..YAY
+p404
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp405
+Rp406
+(dp407
+g8
+VI love you, zappos.com!  Your customer service should be emulated everywhere.  And the stuff you sell is pretty great too (cute wide-width shoes, oh my!).  Keep up the great work and don't ever change.
+p408
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp409
+Rp410
+(dp411
+g8
+VI've been shopping with Zappos for a few years now and they're always the first website I go too!  I would order clothes/shoes at 5pm and receive it the next morning by 9am!  and free shipping too!  Customer service is always great when wanting to do returns.  Great online company to shop from, never had a bad experience.
+p412
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp413
+Rp414
+(dp415
+g8
+VFree shipping? Count me in! \u000a\u000aAnyone out there scared to leave their home? Well, look no further! Zappos ships free, and fast! I love their customer support team, their products are aewsome. \u000a\u000aDownside: Too expensive. I am looking for bargians. But. If you order 10 pairs of shoes, try them on, and then return all but one, it's as if you've gone to the store and you didn't have to leave the comfort of your own home.\u000a\u000aOverall: Totally' awesome concept!
+p416
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp417
+Rp418
+(dp419
+g8
+VI love, love LOVE Zappos.com! They have an unbelieveable selection, and have the fastest shipping I've ever experienced. The customer service is stellar, and they offer free shipping (even if you have to return the item you purchased). I've never had to wait more than one business day for my purchases to be delivered. The site is very user friendly and easy to navigate. I love it and highly recommend it!!
+p420
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp421
+Rp422
+(dp423
+g8
+VThis is a "Titan" of clothing websites. The prices are SUPER competitive and COMPLETELY COMPARABLE to ANY brand name watch on it's home site; I was pleasantly surprised!
+p424
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp425
+Rp426
+(dp427
+g8
+VI absolutely love it!   The prices aren't the best, but reviews are straight up and honest.  When I buy a pair of shoes, I know exactly what I'm getting.  That's more than you can say when you go to a store.  \u000a\u000aEvery pair of shoes I bought (in the dozens) fit the reviews to the "T".
+p428
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp429
+Rp430
+(dp431
+g8
+VWOW.  Customer service as it was meant to be.  A million thank yous to zappos ... a real pleasure doing business with such a great company!
+p432
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp433
+Rp434
+(dp435
+g8
+VLove lvoe love Zappos! the best shoe company in the world. Huge selection. Reasonable prices, FAST SHIPPING AND GREAT CUSTOMER SERVICE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! they are the best.
+p436
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp437
+Rp438
+(dp439
+g8
+VI don't know what else Zappos.com can do to please me more... Maybe send flying fairies to unwrap my new shoes and bluebirds to put them on my feet? Really!!! Zappos is so wonderful. They have my business for life! You get the lowest prices anywhere, no tax and free shipping both ways for a full 365 days. They ROCK!!!!
+p440
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp441
+Rp442
+(dp443
+g8
+VClassy website.  The merchandise is authentic, customer service is outstanding, return policy is generous.  If I need shoes, my first online stop is zappos.  Oh, I forgot to mention their biggest asset:  they have a fantastic selection of shoes.  Sometimes the shoes are off by a season, but not always.  Fabulous website!
+p444
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp445
+Rp446
+(dp447
+g8
+VI love their search features!  It makes hunting for just what I want so easy!\u000aBut I wish they had more high-end brands - Ann Demulemeester for one would rock my world!
+p448
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp449
+Rp450
+(dp451
+g8
+VThis is a great place to buy shoes.  They have designer brand shoes that typically sell cheaper than the designer sites.  They guarantee their products.  Usually receive product within 1 or 2 days!! I also love their return policy.  You have one year to return your purchase as long as it is returned in "new" condition in original shoe box.  They will give you refund or store credit - your choice. I've been shopping with them for 4 years and have NEVER had any problems.  Excellent customer service!! One time I didn't receive my purchase within 5 days.  Called to inquire and they sent another pair of the same shoes right away. No questions asked!!  They didn't even ask me to return the missing shoes if they ever came in - which they did eventually a month later.  I highly recommend this site!!
+p452
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp453
+Rp454
+(dp455
+g8
+Vgreatest return policy ever. 365 days. that's right. and you know what? it is reverse psychology. makes you NOT wanna return bc they are so nice!!! free shipping BOTH WAYS. AHHHHHHHHHHHH! <3 it
+p456
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp457
+Rp458
+(dp459
+g8
+VThis site is absolutely amazing when it comes to every aspect of shopping online. \u000aFree shipping both ways so I don't hesitate to order something when I'm not absolutely sure about the fit. \u000aI always, always,  get my merchandise on time if not early! How amazing is that. \u000aTheir Customer Service is also extraordinary. Something I think is sorely lacking today. They send emails to advise you of Order Receipt, ship date, etc, so you don't think your order fell into a black hole and no one is paying any attention. \u000aAnd the Website is attractive, informative, and easy to use. More positive facets than there's room for here.  \u000aShop Zappos for your shoes. There's no downside.
+p460
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp461
+Rp462
+(dp463
+g8
+VI bought a pair of shoes from zappos.com and was happy when the shoes came 3 days later! I didn't have to return them, but if I had to, the returns are free. The prices are super cheap, and there's a really good selection.
+p464
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp465
+Rp466
+(dp467
+g8
+VZappos.com is not just a great site, there is a great company behind it. They have amazing customer service and make it easy and fun to shop.
+p468
+sg10
+I5
+sbag2
+(g3
+g4
+Ntp469
+Rp470
+(dp471
+g8
+VAmazing customer service, upgraded my shipping for free when i realized i needed them before I went out of town
+p472
+sg10
+I5
+sbas.
