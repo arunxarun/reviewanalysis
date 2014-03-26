@@ -77,17 +77,7 @@ class Test(unittest.TestCase):
             filterTerms.extend(fd5Only)
             defaultWordSet = set(filterTerms)
             
-#            
-            # for raw Training Data, generate all words in the data
-#            print 'top 2500 terms featureset'
-#            all_words = []
-#            all_words.extend(allWords1)
-#            all_words.extend(allWords5)
-#
-#            fdTrainingData = FreqDist(all_words)
-#                        # take an arbitrary subset of these
-#            defaultWordSet = fdTrainingData.keys()[:2500]
-#            
+      
             def emitDefaultFeatures(tokenizedText):
                 '''
                 @param tokenizedText: an array of text features

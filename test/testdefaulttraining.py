@@ -61,26 +61,7 @@ class Test(unittest.TestCase):
             
             commonTermFreqs.sort(key = itemgetter(3),reverse=True)
             
-#            commonDist = [freqDiff for (a,b,c,freqDiff) in commonTermFreqs]
-#            
-#            plt.plot(commonDist)
-#            plt.show()
-            
-            # keep an arbitrary number
-#                
-#                filterTerms = [w for (w,a,b,freq) in commonTermFreqs if freq > 0.001]
-#                
-#                # add non common terms (note that bayesian will smooth zero terms out)
-#                print 'high frequency differential featureset'
-#                fd1Only = [w for w in fd1.keys() if w not in fd5.keys()]
-#                filterTerms.extend(fd1Only)
-#                fd5Only = [w for w in fd5.keys() if w not in fd1.keys()]
-#                filterTerms.extend(fd5Only)
-#                defaultWordSet = set(filterTerms)
-            
-            
-            # for raw Training Data, generate all words in the data
-            #print 'top 2500 terms featureset'
+
             all_words = []
             all_words.extend(allWords1)
             all_words.extend(allWords5)
