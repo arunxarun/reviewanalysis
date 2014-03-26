@@ -5,7 +5,9 @@ Code written for blog posts exploring sentiment analysis with NLTK Bayesian clas
 
 Consists of a review site scraper -- right now the only site I'm scraping from is SiteJabber (http://sitejabber.com), and helper classes that facilitate training, testing, and evaluating classifiers.  
 
-## the training and testing is done in the unit tests specified below, see ./test directory.
+the training and testing is done in the unit tests specified below, see ./test directory.
+
+## Train/Test code
 
 ### testdefaulttraining.py
 
