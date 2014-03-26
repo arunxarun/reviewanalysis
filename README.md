@@ -1,10 +1,24 @@
 reviewanalysis
 ==============
 
-sample code from blog post: http://arunxjacob.blogspot.com/2014/01/making-sense-of-unstructured-text-in.html.
-Code I wrote to download, save, and analyze text from online review sites.
+Code written for blog posts exploring sentiment analysis with NLTK Bayesian classsifier. 
 
-Right now the only site I'm scraping from is SiteJabber (http://sitejabber.com)
+Consists of a review site scraper -- right now the only site I'm scraping from is SiteJabber (http://sitejabber.com), and helper classes that facilitate training, testing, and evaluating classifiers.  
+
+## the training and testing is done in the unit tests specified below, see ./test directory.
+
+### testdefaulttraining.py
+
+this is the default training scenario, where the top 2500 terms across positive and negative reviews are used to help train the classifier.
+
+### test_highfreqterms.py
+
+this is an alternate approach taken where only high frequency terms were used to train the classifier.
+
+### testprobdist.py
+
+this approach boosted positive review frequency to help the classifer perform better on positive reviews during testing. 
+ 
 
 ## Requirements: 
 
@@ -14,7 +28,7 @@ pickle
 beautifulsoup
 
 
-## Samples:
+## Code snippets:
 ### To get text data: 
 
   pageUrl = 'reviews/www.zappos.com'
